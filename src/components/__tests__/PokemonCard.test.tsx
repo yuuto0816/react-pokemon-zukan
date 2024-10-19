@@ -1,5 +1,5 @@
 // src/components/__tests__/PokemonCard.test.tsx
-import React from 'react';
+
 import { render } from '@testing-library/react';
 import PokemonCard from '../PokemonCard';
 import { BrowserRouter } from 'react-router-dom';
